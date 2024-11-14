@@ -1,6 +1,6 @@
-将yolov8模型导出为ONNX，并使用java进行预处理，推理
+将yolov模型导出为ONNX，并使用java进行预处理，推理
 
-实现了yoloV11的pose任务的推理
+实现了yolo11的pose任务的推理
 将模型转换为onnx模型
 ```python
 from ultralytics import YOLO
